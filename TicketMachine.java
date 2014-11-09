@@ -108,4 +108,8 @@ public class TicketMachine
       amountLeftToPay = price - balance;
       return amountLeftToPay;
     }
+ 
+   
+  
+    
 }
